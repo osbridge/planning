@@ -1,4 +1,8 @@
-planning
-========
+Open Source Bridge Planning
+===========================
 
-Planning Open Source Bridge
+An issues-only repository for planning [Open Source Bridge](http://opensourcebridge.org).
+
+Open Source Bridge is an annual conference focused on building open source community and citizenship through four days of technical talks, hacking sessions, and collaboration opportunities. Participants include developers, hardware hackers, community organizers, and people involved in the business of open source.
+
+Our next event will be held June 24–27, 2014, in Portland, Oregon.
